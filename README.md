@@ -6,8 +6,6 @@ Experiencia en BackEnd con NodeJS <br>
 Poseo conocimientos en Java, Python, PostgreSQL con Sequalize. <br>
 <br>
 
-Me encanta solucionar problemas y trabajar en equipo <br>
-Actualmente estoy en búsqueda de un ambiente para desarrollarme profesionalmente.
 
 
 <!---
