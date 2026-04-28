@@ -1,9 +1,7 @@
-Hola! Soy Hernán Gigliotti, desarrollador FullStack
+Hola! Soy Hernán Gigliotti
 
 Técnico Superior en Sistemas egresado de la Universidad Tecnológica Nacional. <br>
-Experiencia en FrontEnd con ReactJs <br>
-Experiencia en BackEnd con NodeJS <br>
-Poseo conocimientos en Java, Python, PostgreSQL con Sequalize. <br>
+Camet Robótica SAS
 <br>
 
 
